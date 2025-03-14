@@ -7,7 +7,7 @@ import { CacheProvider } from '@chakra-ui/next-js';
 const theme = extendTheme({
   colors: {
     brand: {
-      500: '#8CC63F', // Innovation Brindes green
+      500: '#8CC63F', 
     },
   },
 });

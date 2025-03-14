@@ -1,4 +1,3 @@
-// app/components/ProductCard.jsx
 import {
   Box,
   Card,

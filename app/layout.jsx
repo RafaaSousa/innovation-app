@@ -1,6 +1,5 @@
-// app/layout.jsx
 import { Providers } from './providers';
-import { AuthProvider } from './contexts/AuthContext'; // Importe o AuthProvider
+import { AuthProvider } from './contexts/AuthContext'; 
 
 export default function RootLayout({ children }) {
   return (

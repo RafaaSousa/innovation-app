@@ -1,4 +1,3 @@
-// app/services/api.jsx
 import axios from 'axios';
 
 export const fetchProductsApi = async (search = '') => {
