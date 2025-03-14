@@ -1,0 +1,34 @@
+# Ignora o diretório node_modules (dependências do Node.js)
+node_modules
+
+# Ignora o diretório .next (arquivos de build do Next.js)
+.next
+
+# Ignora o diretório .git (repositório Git)
+.git
+
+# Ignora arquivos de ambiente (.env)
+.env
+.env.*
+
+# Ignora arquivos de log
+*.log
+
+# Ignora arquivos de configuração do Docker Compose (se aplicável)
+docker-compose.yml
+docker-compose.*.yml
+
+# Ignora arquivos de documentação
+README.md
+*.md
+
+# Ignora arquivos de configuração do editor (se aplicável)
+.vscode/
+.idea/
+
+# Ignora arquivos de cache
+npm-cache
+yarn-cache
+
+# Ignora arquivos de debug
+debug.log
